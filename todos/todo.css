@@ -1,0 +1,16 @@
+.color{
+    background-color: aqua;
+    align-content: center;
+    text-align: left;
+
+}
+#new-task-input{
+    color: black;
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#new-task-submit{
+    color: crimson;
+    
+}
