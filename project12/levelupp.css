@@ -1,0 +1,139 @@
+
+.titles{
+   color: navy;
+   text-align: center;
+   font-size: 50px;
+   margin-top: 0px;
+ 
+  
+   
+}
+.basic{
+    background-color: silver;
+}
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  
+    
+}
+.button{
+    align-self: flex-end;
+}
+.about_me{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: left;
+    
+}
+.code{
+    padding-block: 100px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.about{
+  
+    float: left;
+    margin-right: 10px;
+
+
+
+}
+.about1{
+    margin-left: 10px;
+    float:right;
+}
+.change{
+    text-align: center;
+
+    font-size: 50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: 10%;
+    
+}
+.contact-place{
+    padding: 2%;
+    box-shadow: inset;
+    border: 1px saddlebrown;
+
+
+}
+.form{
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2%;
+    box-sizing: content-box;
+    box-decoration-break: slice;
+    box-shadow: 10px;
+    border: 1px saddlebrown;
+    padding: 0.375mm 0;
+    
+    
+}
+.more{
+    font-size: 20px;
+    text-align: center;
+    
+   
+    
+}
+#staticEmail2{
+    border: black;
+}
+.form-control-plaintext{
+    color: black;
+}
+.kaam{
+    padding-top: 5%;
+}
+
+
+
+.insert{
+    display: flex;
+    flex-wrap: wrap;
+}
+.under {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    z-index: -1;
+    padding-top: 5%;
+  }
+  
+  .over {
+    position: absolute;
+    left: 40px;
+    top: 10px;
+    z-index: -1;
+    padding-top: 5%;
+}
+.parajuli{
+    display: block;
+    margin-left:0%;
+    width: 20%;
+     
+}
+
+
+.suyesh{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.connects{ 
+
+    
+    width: 1200px;
+    display: grid;
+    height: 400px;
+    
+}
+
+    
+    
